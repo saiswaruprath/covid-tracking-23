@@ -1,6 +1,6 @@
 # covid-tracking-23
 A COVID19 tracking app. 
-The goal is to create a cross-platform mobile solution that can have universal access for everyone using ReactJS.
+The goal is to create a cross-platform mobile solution that can have universal access for everyone using the app for better understanding of covid cases.
 
 ## Engineering
 The idea is to develop 5 separate tabs which will be there at the bottom of the app:
