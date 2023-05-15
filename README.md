@@ -1,5 +1,5 @@
 # covid-tracking-23
-A COVID19 tracking app
+A COVID19 tracking app. 
 The goal is to create a cross-platform mobile solution that can have universal access for everyone using ReactJS.
 
 ## Engineering
