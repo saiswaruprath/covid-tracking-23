@@ -10,3 +10,9 @@ Country — Select country to check the cases
 News — to get the latest news regarding Corona Pandemic
 Guidelines — to read and watch all advisory and guidelines
 Help — for help and feedback.
+
+## Home Page UI
+
+!()[]
+
+
