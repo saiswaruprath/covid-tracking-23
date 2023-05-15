@@ -13,6 +13,6 @@ Help — for help and feedback.
 
 ## Home Page UI
 
-!()[]
+!(home page)[https://github.com/saiswaruprath/covid-tracking-23/blob/main/server/Screenshot%202023-05-15%20at%202.10.26%20PM.png]
 
 
